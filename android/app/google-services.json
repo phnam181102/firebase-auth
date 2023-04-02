@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "347391330294",
+    "project_id": "fir-auth-251b0",
+    "storage_bucket": "fir-auth-251b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347391330294:android:7c0cb8753f9bed25eea9d7",
+        "android_client_info": {
+          "package_name": "com.uda.nam54882.modernlogintute"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347391330294-irr0ahekpplqi741kc4eb0g6mgj1idsn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdialIfvm4dDTU8h4zpbJbxv5EF4GQkoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347391330294-irr0ahekpplqi741kc4eb0g6mgj1idsn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
